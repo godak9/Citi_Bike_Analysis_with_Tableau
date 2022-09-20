@@ -12,7 +12,7 @@ Visualizations were then made in Tableau to create a story about:
 ### Link to Tableau Story 
 The Tableau Story can be accessed [here](https://public.tableau.com/app/profile/gabrijela.odak/viz/NYCCitiBikeAnalysisforDesMoinesBusinessProposal/NYCCitiBikeAnalysis?publish=yes). Below is a summary of the results in this story. 
 ## Results
-Seven visualizaitons were created using NYC Citi Bike trip data. Below is a screenshot of each worksheet used to create each visualization complied into a Tableau story. This section only reports the results with a breif summary. In the summary section below, a conclusion is made based on the results as well as suggestions for two visuals that may further support the conclusion.
+Seven visualizaitons were created using NYC Citi Bike trip data. Below is a screenshot of each worksheet used to create each visualization which were then complied into a Tableau story. This section only reports the results with a brief summary. In the summary section below, a conclusion is made based on the results as well as suggestions for two visuals that may further support the conclusion.
 ### Checkout Times for Users
 The overwhelming majority of trips lasted less than 15 minutes. 
 
@@ -52,9 +52,9 @@ Customers with an unknown gender used bikes more often than both known male and 
 Based on the visualizations above, I summarize a conclusion below and make suggestions for two more visualizaitons that may support this conclusion. 
 ### Conclusion
 Based on the type of users, the hours of use, and the trip duration, I think bikes are used most often for getting to work or coming home from work. The discepancy between male and female bike users may be becasue of the type of clothes males and females sterotypically wear to work, but this is only a speculation. If Des Moines has a population that lives relatively close to their place of work, say, close enough that a bike trip would only take them 15-20 minutes, I think investing in a Citi Bike program for the city would be a great idea. 
-###Suggestions 
-- Data is collected only on user type for NYC Citi Bike users. If data can be collected on the purpose a of use, a visual could be made to show the difference between the amount of users using bikes for work realted purposes versus users using bikes for recreational purposes. 
-- An effort should be made to collect data on the Des Moines population for the purpose of seeing how near to work the population lives. This would be a good next step for investors to take to see if their target population is similar to the experimental population without implementing any sort of test run with a Citi Bike program within Des Moines.  
+### Suggestions 
+- Data is collected only on user type for NYC Citi Bike users. If data can be collected on the purpose of use, a visual could be made to show the difference between the amount of users using bikes for work realted purposes versus users using bikes for recreational purposes. 
+- An effort should be made to collect data on the Des Moines population for the purpose of seeing how near to work the population lives. This would be a good next step for investors to take to see if their target population is similar to the experimental population without implementing any sort of test run with a Citi Bike program within Des Moines. If this data could be collected, a visual could be made to show the similarities and differences between trip duration in NYC and projected trip duration in Des Moines. 
 
 
 

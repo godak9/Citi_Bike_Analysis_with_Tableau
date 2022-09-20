@@ -1,1 +1,3 @@
-# Citi_Bikie_Analysis_with_Tableau
+# Citi_Bike_Analysis_with_Tableau
+## Overview 
+Citi Bike it the largest bike sharing program in the US located in New York City. The goal of this project was to use Citi Bike trip data to determine if estabilishing a Citi Bike program in Des Moines would be worthwhile for investors. Data trip was gathered from the Citi Bike System Data page which links to an [index of trip data](https://s3.amazonaws.com/tripdata/index.html). The data used for this analysis is from August 2019 trips and can be found in the index under the label "201908-citibike-tripdata.csv.zip". Data from August was used becasue there is likely more traffic during the summer. 
